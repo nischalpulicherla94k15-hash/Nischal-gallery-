@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1779730968506_0",
+    "url": "https://i.ibb.co/8nMsHmPX/Design-1.jpg",
+    "designNo": "Design #1",
+    "price": "9000000000",
+    "category": "saree",
+    "colours": "Green,orange,red,yellow,red,white,grey,,green",
+    "outOfStock": true,
+    "description": "Worship "
+  }
+]
