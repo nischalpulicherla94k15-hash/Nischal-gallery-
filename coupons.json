@@ -6,5 +6,9 @@
   {
     "code": "SALE30",
     "value": "30%"
+  },
+  {
+    "code": "SALE15",
+    "value": "15%"
   }
 ]
