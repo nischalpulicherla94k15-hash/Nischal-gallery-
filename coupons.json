@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "code": "SALE10",
+    "value": "10%",
+    "label": "10%off on oders above 1199",
+    "min": "1198",
+    "expiry": "2026-07-31",
+    "visible": false
+  }
+]
