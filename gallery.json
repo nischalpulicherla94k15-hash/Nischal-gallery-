@@ -7,7 +7,8 @@
     "category": "other",
     "colours": "",
     "outOfStock": false,
-    "description": "Contact for more details .\n"
+    "description": "Contact for more details .\n",
+    "isNew": false
   },
   {
     "id": "1779978034472_1",
@@ -17,7 +18,8 @@
     "category": "other",
     "colours": "",
     "outOfStock": false,
-    "description": "Contact for more details ."
+    "description": "Contact for more details .",
+    "isNew": false
   },
   {
     "id": "1780051133893_0",
@@ -27,16 +29,7 @@
     "category": "saree",
     "colours": "",
     "outOfStock": false,
-    "description": ""
-  },
-  {
-    "id": "1780051144460_0",
-    "url": "https://i.ibb.co/Rpd87bKj/Design-5.png",
-    "designNo": "Design #5",
-    "price": "",
-    "category": "saree",
-    "colours": "",
-    "outOfStock": false,
-    "description": ""
+    "description": "",
+    "isNew": false
   }
 ]
