@@ -60,7 +60,7 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "description": "Peacock ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "createdAt": 1780052221648,
     "isNew": true
   },
@@ -179,20 +179,6 @@
     "isNew": true
   },
   {
-    "id": "1780136154128_0",
-    "url": "https://i.ibb.co/KjMBwbtD/Design-14.jpg",
-    "photos": [],
-    "designNo": "Design #14",
-    "price": "550",
-    "originalPrice": "750",
-    "category": "saree",
-    "colours": "All colours ",
-    "outOfStock": false,
-    "description": "",
-    "createdAt": 1780136154128,
-    "isNew": true
-  },
-  {
     "id": "1780138666440_0",
     "url": "https://i.ibb.co/ks9WsqZC/Design-15.jpg",
     "photos": [],
@@ -203,7 +189,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138666440
+    "createdAt": 1780138666440,
+    "isNew": true
   },
   {
     "id": "1780138669763_1",
@@ -216,7 +203,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138669763
+    "createdAt": 1780138669763,
+    "isNew": true
   },
   {
     "id": "1780138678925_2",
@@ -229,7 +217,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138678925
+    "createdAt": 1780138678925,
+    "isNew": true
   },
   {
     "id": "1780138690239_3",
@@ -242,7 +231,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138690239
+    "createdAt": 1780138690239,
+    "isNew": true
   },
   {
     "id": "1780138698339_4",
@@ -255,7 +245,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138698339
+    "createdAt": 1780138698339,
+    "isNew": true
   },
   {
     "id": "1780138729158_5",
@@ -271,7 +262,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138729158
+    "createdAt": 1780138729158,
+    "isNew": true
   },
   {
     "id": "1780138749350_6",
@@ -286,7 +278,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138749350
+    "createdAt": 1780138749350,
+    "isNew": true
   },
   {
     "id": "1780138770819_7",
@@ -301,7 +294,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138770819
+    "createdAt": 1780138770819,
+    "isNew": true
   },
   {
     "id": "1780138781376_8",
@@ -316,7 +310,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138781376
+    "createdAt": 1780138781376,
+    "isNew": true
   },
   {
     "id": "1780138790137_9",
@@ -331,7 +326,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138790137
+    "createdAt": 1780138790137,
+    "isNew": true
   },
   {
     "id": "1780138793108_10",
@@ -344,7 +340,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138793108
+    "createdAt": 1780138793108,
+    "isNew": true
   },
   {
     "id": "1780138805102_11",
@@ -359,7 +356,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138805102
+    "createdAt": 1780138805102,
+    "isNew": true
   },
   {
     "id": "1780138821624_12",
@@ -374,7 +372,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138821624
+    "createdAt": 1780138821624,
+    "isNew": true
   },
   {
     "id": "1780138840870_13",
@@ -390,7 +389,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138840870
+    "createdAt": 1780138840870,
+    "isNew": true
   },
   {
     "id": "1780138850235_14",
@@ -405,7 +405,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138850235
+    "createdAt": 1780138850235,
+    "isNew": true
   },
   {
     "id": "1780138868322_15",
@@ -420,7 +421,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138868322
+    "createdAt": 1780138868322,
+    "isNew": true
   },
   {
     "id": "1780138876499_16",
@@ -433,7 +435,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138876499
+    "createdAt": 1780138876499,
+    "isNew": true
   },
   {
     "id": "1780138890624_17",
@@ -448,6 +451,7 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780138890624
+    "createdAt": 1780138890624,
+    "isNew": true
   }
 ]
