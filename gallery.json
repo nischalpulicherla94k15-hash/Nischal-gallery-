@@ -60,7 +60,7 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ",
+    "description": "Peacock ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "createdAt": 1780052221648,
     "isNew": true
   },
@@ -75,6 +75,100 @@
     "colours": "",
     "outOfStock": false,
     "description": "",
-    "createdAt": 1780134522033
+    "createdAt": 1780134522033,
+    "isNew": true
+  },
+  {
+    "id": "1780135390149_0",
+    "url": "https://i.ibb.co/bjRHydWw/Design-6.jpg",
+    "photos": [],
+    "designNo": "Design #6",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135390149
+  },
+  {
+    "id": "1780135392434_1",
+    "url": "https://i.ibb.co/1xvGxZ9/Design-8.jpg",
+    "photos": [],
+    "designNo": "Design #8",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135392434
+  },
+  {
+    "id": "1780135396136_2",
+    "url": "https://i.ibb.co/rKG56gc7/Design-9.jpg",
+    "photos": [
+      "https://i.ibb.co/HLJdjn5q/Design-9-2.jpg"
+    ],
+    "designNo": "Design #9",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135396136
+  },
+  {
+    "id": "1780135396870_3",
+    "url": "https://i.ibb.co/0yqMGG9w/Design-10.jpg",
+    "photos": [],
+    "designNo": "Design #10",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135396870
+  },
+  {
+    "id": "1780135397648_4",
+    "url": "https://i.ibb.co/604kXkBq/Design-11.jpg",
+    "photos": [],
+    "designNo": "Design #11",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135397648
+  },
+  {
+    "id": "1780135398558_5",
+    "url": "https://i.ibb.co/nNKR79tM/Design-12.jpg",
+    "photos": [],
+    "designNo": "Design #12",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135398558
+  },
+  {
+    "id": "1780135399229_6",
+    "url": "https://i.ibb.co/8nLWqRwx/Design-13.jpg",
+    "photos": [],
+    "designNo": "Design #13",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "Customized designs available ",
+    "createdAt": 1780135399229
   }
 ]
