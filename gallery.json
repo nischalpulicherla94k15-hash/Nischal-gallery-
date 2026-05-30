@@ -60,8 +60,21 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¦ÃÂÃÂ",
+    "description": "Peacock ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ",
     "createdAt": 1780052221648,
     "isNew": true
+  },
+  {
+    "id": "1780134522032_0",
+    "url": "https://i.ibb.co/S7yQ1kgN/Design-3.jpg",
+    "photos": [],
+    "designNo": "Design #2",
+    "price": "400",
+    "originalPrice": "550",
+    "category": "blouse",
+    "colours": "",
+    "outOfStock": false,
+    "description": "",
+    "createdAt": 1780134522033
   }
 ]
