@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "code": "FIRSTORDER49",
+    "value": "49",
+    "label": "FLAT49 ON FIRST ORDER",
+    "min": "999",
+    "expiry": "",
+    "visible": true
+  }
+]
