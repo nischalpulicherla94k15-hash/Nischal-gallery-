@@ -22,5 +22,13 @@
     "min": "999",
     "expiry": "",
     "visible": true
+  },
+  {
+    "code": "BULK150",
+    "value": "150",
+    "label": "",
+    "min": "2000",
+    "expiry": "",
+    "visible": true
   }
 ]
