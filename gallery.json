@@ -60,7 +60,7 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "description": "Peacock ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "createdAt": 1780052221648,
     "isNew": true
   },
@@ -89,7 +89,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135390149
+    "createdAt": 1780135390149,
+    "isNew": true
   },
   {
     "id": "1780135392434_1",
@@ -102,7 +103,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135392434
+    "createdAt": 1780135392434,
+    "isNew": true
   },
   {
     "id": "1780135396136_2",
@@ -117,7 +119,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135396136
+    "createdAt": 1780135396136,
+    "isNew": true
   },
   {
     "id": "1780135396870_3",
@@ -130,7 +133,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135396870
+    "createdAt": 1780135396870,
+    "isNew": true
   },
   {
     "id": "1780135397648_4",
@@ -143,7 +147,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135397648
+    "createdAt": 1780135397648,
+    "isNew": true
   },
   {
     "id": "1780135398558_5",
@@ -156,7 +161,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135398558
+    "createdAt": 1780135398558,
+    "isNew": true
   },
   {
     "id": "1780135399229_6",
@@ -169,6 +175,20 @@
     "colours": "",
     "outOfStock": false,
     "description": "Customized designs available ",
-    "createdAt": 1780135399229
+    "createdAt": 1780135399229,
+    "isNew": true
+  },
+  {
+    "id": "1780136154128_0",
+    "url": "https://i.ibb.co/KjMBwbtD/Design-14.jpg",
+    "photos": [],
+    "designNo": "Design #14",
+    "price": "550",
+    "originalPrice": "750",
+    "category": "saree",
+    "colours": "All colours ",
+    "outOfStock": false,
+    "description": "",
+    "createdAt": 1780136154128
   }
 ]
