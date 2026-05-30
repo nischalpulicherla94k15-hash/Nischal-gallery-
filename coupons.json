@@ -14,5 +14,13 @@
     "min": "1499",
     "expiry": "",
     "visible": true
+  },
+  {
+    "code": "BUY3SAVE100",
+    "value": "100",
+    "label": "",
+    "min": "1200",
+    "expiry": "",
+    "visible": true
   }
 ]
