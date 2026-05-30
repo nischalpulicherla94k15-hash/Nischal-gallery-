@@ -76,18 +76,5 @@
     "description": "customized designs available \nWith different colours ",
     "createdAt": 1780058117604,
     "isNew": true
-  },
-  {
-    "id": "1780058120064_1",
-    "url": "https://i.ibb.co/bgY1mJ0q/Design-10.jpg",
-    "designNo": "Design #10",
-    "price": "400",
-    "originalPrice": "550",
-    "category": "blouse",
-    "colours": "",
-    "outOfStock": false,
-    "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058120064,
-    "isNew": true
   }
 ]
