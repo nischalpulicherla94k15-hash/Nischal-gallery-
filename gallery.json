@@ -65,19 +65,6 @@
     "isNew": true
   },
   {
-    "id": "1780052214387_5",
-    "url": "https://i.ibb.co/Fkj2Zckd/Design-6.jpg",
-    "designNo": "Design #6",
-    "price": "500",
-    "originalPrice": "650",
-    "category": "blouse",
-    "colours": "",
-    "outOfStock": false,
-    "description": "Bird",
-    "createdAt": 1780052214387,
-    "isNew": true
-  },
-  {
     "id": "1780052221648_6",
     "url": "https://i.ibb.co/0jLFjbNj/Design-7.jpg",
     "designNo": "Design #7",
@@ -86,7 +73,7 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock Ã°ÂÂ¦Â",
+    "description": "Peacock ÃÂ°ÃÂÃÂ¦ÃÂ",
     "createdAt": 1780052221648,
     "isNew": true
   },
