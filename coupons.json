@@ -14,5 +14,13 @@
     "min": "1200",
     "expiry": "",
     "visible": true
+  },
+  {
+    "code": "WELCOME50",
+    "value": "50",
+    "label": "",
+    "min": "999",
+    "expiry": "",
+    "visible": true
   }
 ]
