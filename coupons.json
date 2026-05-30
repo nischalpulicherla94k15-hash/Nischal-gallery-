@@ -6,13 +6,5 @@
     "min": "999",
     "expiry": "",
     "visible": true
-  },
-  {
-    "code": "SALE10",
-    "value": "10%",
-    "label": "Sale10",
-    "min": "1399",
-    "expiry": "",
-    "visible": false
   }
 ]
