@@ -86,7 +86,7 @@
     "category": "blouse",
     "colours": "",
     "outOfStock": false,
-    "description": "Peacock ð¦",
+    "description": "Peacock Ã°ÂÂ¦Â",
     "createdAt": 1780052221648,
     "isNew": true
   },
@@ -113,7 +113,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058117604
+    "createdAt": 1780058117604,
+    "isNew": true
   },
   {
     "id": "1780058120064_1",
@@ -125,7 +126,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058120064
+    "createdAt": 1780058120064,
+    "isNew": true
   },
   {
     "id": "1780058122712_2",
@@ -137,7 +139,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058122712
+    "createdAt": 1780058122712,
+    "isNew": true
   },
   {
     "id": "1780058127438_3",
@@ -149,7 +152,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058127438
+    "createdAt": 1780058127438,
+    "isNew": true
   },
   {
     "id": "1780058133575_4",
@@ -161,7 +165,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058133576
+    "createdAt": 1780058133576,
+    "isNew": true
   },
   {
     "id": "1780058136351_5",
@@ -173,19 +178,8 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058136351
-  },
-  {
-    "id": "1780058138424_6",
-    "url": "https://i.ibb.co/n8wXjzc3/Design-15.jpg",
-    "designNo": "Design #15",
-    "price": "400",
-    "originalPrice": "600",
-    "category": "blouse",
-    "colours": "",
-    "outOfStock": false,
-    "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058138425
+    "createdAt": 1780058136351,
+    "isNew": true
   },
   {
     "id": "1780058143280_7",
@@ -197,6 +191,7 @@
     "colours": "",
     "outOfStock": false,
     "description": "customized designs available \nWith different colours ",
-    "createdAt": 1780058143280
+    "createdAt": 1780058143280,
+    "isNew": true
   }
 ]
