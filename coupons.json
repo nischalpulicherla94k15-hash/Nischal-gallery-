@@ -1,13 +1,5 @@
 [
   {
-    "code": "FIRSTORDER49",
-    "value": "49",
-    "label": "FLAT49 ON FIRST ORDER",
-    "min": "999",
-    "expiry": "",
-    "visible": true
-  },
-  {
     "code": "SALE9",
     "value": "9%",
     "label": "Flat9% off",
