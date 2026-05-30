@@ -526,18 +526,5 @@
     "outOfStock": false,
     "description": "",
     "createdAt": 1780161343546
-  },
-  {
-    "id": "1780161348650_2",
-    "url": "https://i.ibb.co/JFS75XFx/Design-37.jpg",
-    "photos": [],
-    "designNo": "Design #37",
-    "price": "700",
-    "originalPrice": "899",
-    "category": "blouse",
-    "colours": "",
-    "outOfStock": false,
-    "description": "",
-    "createdAt": 1780161348650
   }
 ]
